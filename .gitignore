@@ -6,3 +6,5 @@ __pycache__/
 *.pt
 *.pyc
 .env
+
+TP4/household_power_consumption.txt
